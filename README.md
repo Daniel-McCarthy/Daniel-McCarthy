@@ -1,15 +1,20 @@
-___
-#### Greetings!
-___
-#### New to Git?<br>
-Try 
-<a href='https://github.com/desktop/desktop'>
-  <img src="https://avatars1.githubusercontent.com/u/13171334?s=60&v=4" alt="GitHub Desktop Logo" width="16" height="16">
-</a> 
-[GitHub Desktop](https://github.com/desktop/desktop) for a simple GUI experience.<br>
-Available on Windows and MacOS on [the official website.](https://desktop.github.com/)<br>
-Unofficial builds of GitHub Desktop for Linux can be found [on this fork](https://github.com/shiftkey/desktop/)!
-___
+<hr/>
+
+<p align='center'>
+  <b>New to Git?</b><br>
+  <span>Try</span> 
+  <a href='https://github.com/desktop/desktop'>
+    <img src="https://avatars1.githubusercontent.com/u/13171334?s=60&v=4" alt="GitHub Desktop Logo" width="16" height="16">
+  </a> 
+  <a href='https://github.com/desktop/desktop'>GitHub Desktop</a> for a simple GUI experience.<br>
+  <span>
+    Available on Windows and MacOS on <a href='https://desktop.github.com/'>the official website.</a><br>
+    Unofficial builds of GitHub Desktop for Linux can be found <a href='https://github.com/shiftkey/desktop/'>on this fork</a>!
+  </span>
+</p>
+
+<hr/>
+
 <p align="center">
   <img style='margin:10px auto 20px;display: block;' src='./ChicagoSkyLineOutline.svg' width="480"/>
 </p>
