@@ -1,5 +1,4 @@
 ___
-<img src='./ChicagoSkyLineOutline.svg'/>
 #### Greetings!
 ___
 #### New to Git?<br>
@@ -11,6 +10,7 @@ Try
 Available on Windows and MacOS on [the official website.](https://desktop.github.com/)<br>
 Unofficial builds of GitHub Desktop for Linux can be found [on this fork](https://github.com/shiftkey/desktop/)!
 ___
+<img src='./ChicagoSkyLineOutline.svg' width="480"/>
 
 <!--
 **Daniel-McCarthy/Daniel-McCarthy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
