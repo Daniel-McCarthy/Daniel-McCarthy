@@ -10,7 +10,9 @@ Try
 Available on Windows and MacOS on [the official website.](https://desktop.github.com/)<br>
 Unofficial builds of GitHub Desktop for Linux can be found [on this fork](https://github.com/shiftkey/desktop/)!
 ___
-<img src='./ChicagoSkyLineOutline.svg' width="480"/>
+<p align="center">
+  <img style='margin:10px auto 20px;display: block;' src='./ChicagoSkyLineOutline.svg' width="480"/>
+</p>
 
 <!--
 **Daniel-McCarthy/Daniel-McCarthy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
