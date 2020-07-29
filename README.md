@@ -1,4 +1,5 @@
 ___
+<img src='./ChicagoSkyLineOutline.svg'/>
 #### Greetings!
 ___
 #### New to Git?<br>
