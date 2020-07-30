@@ -16,7 +16,7 @@
 <hr/>
 
 <p align="center">
-  <img style='margin:10px auto 20px;display: block;' src='https://github.com/Daniel-McCarthy/Daniel-McCarthy/blob/master/ChicagoSkyLineOutline.svg' width="480"/>
+  <img style='margin:10px auto 20px;display: block;' src='./Chicago.svg' width="480"/>
 </p>
 
 <!--
