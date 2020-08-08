@@ -17,7 +17,7 @@
 
 <p align="center">
   <!-- Thanks to https://github.com/sindresorhus/css-in-readme-like-wat for method of embedding animation -->
-  <img style="width:100%; min-height: 500px;" src="https://raw.githubusercontent.com/Daniel-McCarthy/Daniel-McCarthy/Funky-Bird-Animation/AnimatedBird.svg"></img>
+  <img style="width:100%;" height="275px" src="https://raw.githubusercontent.com/Daniel-McCarthy/Daniel-McCarthy/Funky-Bird-Animation/AnimatedBird.svg"></img>
 </p>
 
 <!--
