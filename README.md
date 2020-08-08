@@ -16,7 +16,7 @@
 <hr/>
 
 <p align="center">
-  <img style='margin:10px auto 20px;display: block;' src='https://github.com/Daniel-McCarthy/Daniel-McCarthy/blob/master/AmericanWoodDancingBird.svg' width="480"/>
+  <img style='margin:10px auto 20px;display: block;' src='https://raw.githubusercontent.com/Daniel-McCarthy/Daniel-McCarthy/Funky-Bird-Animation/AmericanWoodDancingBird.svg' width="480"/>
 </p>
 
 <!--
