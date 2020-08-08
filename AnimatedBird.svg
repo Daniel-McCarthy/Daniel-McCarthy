@@ -3,60 +3,60 @@
       <div xmlns="http://www.w3.org/1999/xhtml">
         <style>
             @keyframes head {
-                0% 	{ transform: rotate(0deg) }
-                50% 	{ transform: rotate(-2deg) translateX(-1px) translateY(-1px) }
-                100% 	{ transform: rotate(0deg) }
+              0% 	{ transform: rotate(0deg) }
+              50% 	{ transform: rotate(-1deg) translateX(-1px) translateY(-1px) }
+              100% 	{ transform: rotate(0deg) }
             }
 
             @keyframes body {
-                0% 	{ transform: translateX(0px) translateY(0px) }
-                50% 	{ transform: translateX(-2px) translateY(-2px) }
-                100% 	{ transform: translateX(0px) translateY(0px) }
+              0% 	{ transform: translateX(0px) translateY(1px) }
+              50% 	{ transform: translateX(-2px) translateY(-2px) }
+              100% 	{ transform: translateX(0px) translateY(1px) }
             }
 
             @keyframes rFoot {
-                0% 	{ transform: translateX(0px) }
-                20% 	{ transform: translateX(-25px) translateY(-2px) }
-                20% 	{ transform: translateX(-25px) translateY(-2px) }
-                30% 	{ transform: translateX(-20px) translateY(-4px) rotate(12deg) }
-                40%	{ transform: translateX(-25px) translateY(-2px) rotate(0deg) }
-                55% 	{ transform: translateX(-20px) translateY(-4px) rotate(12deg) }
-                75%	{ transform: translateX(-25px) translateY(-10px) }
-                100% 	{ transform: translateX(0px) }
+              0% 	{ transform: translateX(0px) }
+              25% 	{ transform: translateX(-25px) translateY(-2px) }
+              30% 	{ transform: translateX(-20px) translateY(-4px) rotate(12deg) }
+              40%	{ transform: translateX(-26px) translateY(-2px) rotate(0deg) }
+              55% 	{ transform: translateX(-20px) translateY(-4px) rotate(12deg) }
+              75%	{ transform: translateX(-25px) translateY(-10px) }
+              90% 	{ transform: translateX(0px) }
+              100% 	{ transform: translateX(0px) }
             }
 
             @keyframes lFoot {
-                0% 	{ transform: translateX(0px) translateY(0px) rotate(0deg) }
-                15% 	{ transform: translateX(20px) translateY(-25px) rotate(5deg) }
-                35% 	{ transform: translateX(35px) translateY(0px) rotate(0deg) }
-                45% 	{ transform: translateX(40px) translateY(2px) rotate(10deg) }
-                55% 	{ transform: translateX(35px) translateY(0px) rotate(0deg) }
-                70% 	{ transform: translateX(40px) translateY(4px) rotate(8deg) }
-                100% 	{ transform: translateX(0px) translateY(0px) rotate(0deg) }
+              0% 	{ transform: translateX(0px) translateY(0px) rotate(0deg) }
+              15% 	{ transform: translateX(20px) translateY(-25px) rotate(5deg) }
+              35% 	{ transform: translateX(35px) translateY(0px) rotate(0deg) }
+              45% 	{ transform: translateX(40px) translateY(2px) rotate(10deg) }
+              55% 	{ transform: translateX(35px) translateY(0px) rotate(0deg) }
+              70% 	{ transform: translateX(40px) translateY(4px) rotate(8deg) }
+              100% 	{ transform: translateX(0px) translateY(0px) rotate(0deg) }
             }
 
             #R_Foot {
-                transform-origin: 50% 50%;
-                position: relative;
-                animation: rFoot 2s 0s infinite;
+              transform-origin: 50% 50%;
+              position: relative;
+              animation: rFoot 2s 0s infinite;
             }
 
             #L_Foot {
-                transform-origin: 50% 50%;
-                position: relative;
-                animation: lFoot 2s 0s infinite;
+              transform-origin: 50% 50%;
+              position: relative;
+              animation: lFoot 2s 0s infinite;
             }
 
 
             #Head {
-                transform-origin: 50% 50%;
-                position: relative;
-                animation: head .6s 0s infinite;
+              transform-origin: 50% 50%;
+              position: relative;
+              animation: head .6s 0s infinite;
             }
 
             #Body {
-                position: relative;
-                animation: body .6s 0s infinite;
+              position: relative;
+              animation: body .6s 0s infinite;
             }
         </style>
         <!-- <?xml version="1.0" encoding="UTF-8" standalone="no"?> -->
