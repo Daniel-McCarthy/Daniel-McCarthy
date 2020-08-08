@@ -16,7 +16,8 @@
 <hr/>
 
 <p align="center">
-  <img style='margin:10px auto 20px;display: block;' src='https://raw.githubusercontent.com/Daniel-McCarthy/Daniel-McCarthy/Funky-Bird-Animation/AmericanWoodDancingBird.svg' width="480"/>
+  <!-- Thanks to https://github.com/sindresorhus/css-in-readme-like-wat for method of embedding animation -->
+  <img src="https://raw.githubusercontent.com/Daniel-McCarthy/Daniel-McCarthy/Funky-Bird-Animation/AnimatedBird.svg></img>
 </p>
 
 <!--
